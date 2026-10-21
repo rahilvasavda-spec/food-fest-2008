@@ -1,0 +1,17 @@
+
+Food Festival Menu - 2008
+
+Stall 1: Pizza Corner
+Items: Cheese Pizza, Margherita Pizza
+Price: Rs. 100-200
+
+Stall 2: Burger Hub
+Items: Veg Burger, Cheese Burger
+Price: Rs. 80-150
+
+Stall 3: Sweet Treats
+Items: Ice Cream, Brownies
+Price: Rs. 50-100
+Stall 4: Dosa Point
+Items: Masala Dosa, Plain Dosa
+Price: Rs. 70-120
